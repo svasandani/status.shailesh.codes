@@ -4,17 +4,19 @@
     "url": "https://api.shailesh.codes/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.shailesh.codes.ico",
     "slug": "api-shailesh-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 632,
-    "timeWeek": 502,
-    "timeMonth": 481,
-    "timeYear": 494,
-    "dailyMinutesDown": {}
+    "time": 558,
+    "timeDay": 1962,
+    "timeWeek": 851,
+    "timeMonth": 569,
+    "timeYear": 558,
+    "dailyMinutesDown": {
+      "2025-11-06": 0
+    }
   }
 ]
