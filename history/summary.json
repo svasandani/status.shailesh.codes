@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.shailesh.codes.ico",
     "slug": "api-shailesh-codes",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.84%",
-    "time": 740,
-    "timeDay": 711,
-    "timeWeek": 582,
-    "timeMonth": 997,
-    "timeYear": 740,
+    "uptimeYear": "99.85%",
+    "time": 737,
+    "timeDay": 458,
+    "timeWeek": 577,
+    "timeMonth": 996,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2025-11-18": 166
     }
