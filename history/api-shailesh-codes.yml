@@ -1,7 +1,7 @@
 url: https://api.shailesh.codes/health
-status: down
-code: 530
-responseTime: 2067
-lastUpdated: 2026-07-31T18:11:53.286Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2026-07-31T18:46:24.155Z
 startTime: 2025-09-26T03:07:31.394Z
 generator: Upptime <https://github.com/upptime/upptime>
