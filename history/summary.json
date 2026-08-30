@@ -6,15 +6,15 @@
     "slug": "api-shailesh-codes",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "98.75%",
-    "time": 1009,
-    "timeDay": 1123,
-    "timeWeek": 1014,
-    "timeMonth": 810,
-    "timeYear": 1009,
+    "time": 1008,
+    "timeDay": 1059,
+    "timeWeek": 1027,
+    "timeMonth": 808,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-11-18": 166,
       "2026-01-12": 20,
@@ -89,8 +89,7 @@
       "2026-08-05": 30,
       "2026-08-06": 55,
       "2026-08-07": 21,
-      "2026-08-13": 19,
-      "2026-08-29": 7
+      "2026-08-13": 19
     }
   }
 ]
