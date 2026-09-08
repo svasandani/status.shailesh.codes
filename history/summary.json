@@ -6,9 +6,9 @@
     "slug": "api-shailesh-codes",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "98.78%",
     "time": 1002,
     "timeDay": 816,
@@ -90,8 +90,7 @@
       "2026-08-06": 55,
       "2026-08-07": 21,
       "2026-08-13": 19,
-      "2026-09-02": 22,
-      "2026-09-07": 7
+      "2026-09-02": 22
     }
   }
 ]
